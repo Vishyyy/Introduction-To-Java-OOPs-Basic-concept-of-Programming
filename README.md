@@ -1,2 +1,3 @@
 # Introduction-To-Java-OOPs-Basic-concept-of-Programming
 Introduction To Java , OOPs, Basic concept of Programming
+This repository is about the basic concepts of java and basic OOPs concept. I explained about the class and objects in this repository. there is also the concepts of OOPs with an example . Fact - Java is not fully object oriented because it supports primitive data type like it,byte,long etc.,which are not objects. Because in JAVA we use data types like int, float, double etc which are not object oriented, and of course is what opposite of OOP is. That is why JAVA is not 100% objected oriented . Thank you .The file is in pdf Format
